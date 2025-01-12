@@ -1,5 +1,21 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en-US" dir="ltr">
+=======
+<form action="action_page.php">
+  <div class="container">
+    <h1>New user Register for DevOps Learning hello !!!</h1>
+    <p>Please fill in this form to create an account.</p>
+    <hr>
+     
+    <label for="Name"><b>Enter Name</b></label>
+    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <br>
+    
+    <label for="mobile"><b>Enter mobile</b></label>
+    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+    <br>
+>>>>>>> 3d9919f60035b4d10e63047a4f3524dba75b7a93
 
   <head>
     <meta charset="utf-8">
@@ -12,6 +28,10 @@
     <!-- ===============================================-->
     <title>Foodwagon | Responsive, Ecommerce &amp; Business Templatee</title>
 
+<<<<<<< HEAD
+=======
+   <h1> Thankyou, Happy Learning </h1>
+>>>>>>> 3d9919f60035b4d10e63047a4f3524dba75b7a93
 
     <!-- ===============================================-->
     <!--    Favicons-->
